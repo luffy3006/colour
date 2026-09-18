@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Whiteboard
+Comment=Minimalist scratchpad for math and diagrams
+Exec=python3 main.py
+Icon=whiteboard
+Categories=Graphics;Education;Development;
+Terminal=false
+StartupWMClass=whiteboard
